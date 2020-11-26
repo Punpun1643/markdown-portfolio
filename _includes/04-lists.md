@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Books
+  * the last lecture 
+  * the third door
+* Food 
+  * sashimi
+  
